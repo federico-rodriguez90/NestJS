@@ -1,7 +1,8 @@
 // import { age, isValid, name } from "./bases/01-types";
 // import { pikachu } from "./bases/02-objetcts";
 // import { charmander } from "./bases/03-classes";
-import { charmander } from "./bases/04-injection";
+// import { charmander } from "./bases/04-injection";
+import { charmander } from "./bases/05-decorators";
 import "./style.css";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
